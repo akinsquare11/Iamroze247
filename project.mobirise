@@ -12,7 +12,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/index-128x68.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Zhakkas - Ad Display Code -->\r\n<script type=\"text/javascript\" src=\"//adserve.zhakkas.com/display/js/ads.js?Mjk3OTcmMjYwNzQmNzI4Jjkw\"></script>\r\n<!-- Zhakkas - Ad Display Code -->",
     "cookiesAlert": ""
   },
   "pages": {
